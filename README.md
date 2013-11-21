@@ -35,8 +35,6 @@ Table of Contents
 
 
 
-
-
 How to use join us ?
 --------------------
 
@@ -45,40 +43,15 @@ You can use GitHub GUI to maintain or use git command line.
 ### Rules
 
 - All commit MUST have commit message
-
-
-
-### Syntax
-[cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
-#### System
-All system should be edit as table
-
-##### code
-```
-    | 1N - 2C; ?
---- | ---
-2D  | no 4cd major
-2H  | 4cd
-```
-##### demo
-    | 1N - 2C; ?
---- | ---
-2D  | no 4 
-
-
-
-
-### Symbol
-
-sybmol | description
------- | ---
-m | minor
-M | major
-~ | 12~15
-cd| card count
-+ | more than (include)
-- | less than (include)
+    - Using symbol to tell the file you edit if not too many files. [+] for add, [M] for edit, [-] for delete.
+    - Tell what you do in this commit in summary.
+    - EX: [M] 1C.md.  [Summary] 1C-2C seqence complete.
+- Follow the template structure below.
+    - Use H1 for Chapter
+    - Use H2 for Section
+    - Use H3 for detail
+    - Use table for bid seqence
+    - EX: 1C - (1D) - 1H; 2C - ?
 
 
 ### template
@@ -111,6 +84,22 @@ cd| card count
 bla bla bla
 
 ```
+
+
+
+### Syntax
+[cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+sybmol | description
+------ | ---
+m | minor
+M | major
+~ | 12~15
+cd| card count
++ | more than (include)
+- | less than (include)
+
+
 
 
 
