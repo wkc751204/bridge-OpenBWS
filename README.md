@@ -113,7 +113,7 @@ Here I use python as middleware to implement the task.
 ### Requirement
 - Python27
 - python-markdown
-- html to pdf tool
+- xhtml2pdf
 
 ### Setup environment
 
