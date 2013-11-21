@@ -1,7 +1,6 @@
 Opening
 =======
 
-
 #### Design
     | opening
 --- | ---

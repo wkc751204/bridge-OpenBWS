@@ -5,16 +5,36 @@ Open BWS is the bridge system for BTU club from NTU Taiwan
 
 Table of Contents
 -----------------
-- [Opening](01_Opening)
-- [Strong NT]()
-- [1C and 1D]()
-- [1H and 1S]()
-- [2C]()
-- [Preemptive opening]()
-- [Rubens Advanced after opponent over call]()
-- [Double]()
-- [Common Rule]()
-- [Appendix and Plugin]()
+### Constructive Bidding System
+- [Opening](constructive/opening.md)
+- Strong NT
+- 1C and 1D
+- 1H and 1S
+- 4th suit
+- 2way check back
+- 2 suit bidding
+- 2C
+- Preemptive opening
+- Rubens Advanced after opponent overcall
+- Double
+- Lebensohl and Goodbad
+- VS 2 suit overcall
+- Common Rule
+- Appendix and Plugin
+
+### Defensive Bidding System
+- Signal
+- Rubens Adanced after partner overcall
+- Double
+- VS NT opening
+- VS Preemptive nature opening
+- VS multi opening
+- VS 2 suit opening
+- VS Strong Club opening
+- VS Poblish Club
+
+
+
 
 
 How to use join us ?
@@ -63,7 +83,13 @@ cd| card count
 
 ### template
 ```
-#### Design
+1C and 1D (Section Title)
+=========================
+
+1C first response (Title)
+-------------------------
+
+### Design
     | sequence
 --- | ---
 1D  |
@@ -81,7 +107,8 @@ cd| card count
 3S  |
 3N  |
 
-#### Description
+### Description
+bla bla bla
 
 ```
 
