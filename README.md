@@ -3,6 +3,8 @@ bridge-OpenBWS
 
 Open BWS is the bridge system for BTU club from NTU Taiwan
 
+
+
 Table of Contents
 -----------------
 ### Constructive Bidding System
@@ -40,55 +42,56 @@ How to use join us ?
 
 You can use GitHub GUI to maintain or use git command line.
 
-### Rules
+
+### Edit Rules
 
 - All commit MUST have commit message
     - Using symbol to tell the file you edit if not too many files. [+] for add, [M] for edit, [-] for delete.
     - Tell what you do in this commit in summary.
     - EX: [M] 1C.md.  [Summary] 1C-2C seqence complete.
-- Follow the template structure below.
+- Follow the template format.
     - Use H1 for Chapter
     - Use H2 for Section
     - Use H3 for detail
     - Use table for bid seqence
     - EX: 1C - (1D) - 1H; 2C - ?
+- syntax [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- Check syntax using [gist](https://gist.github.com) before commit
 
+### Template
 
-### template
 ```
-1C and 1D (Section Title)
-=========================
+    1C and 1D (Section Title)
+    =========================
 
-1C first response (Title)
--------------------------
+    1C first response (Title)
+    -------------------------
 
-### Design
-    | sequence
---- | ---
-1D  |
-1H  |
-1S  |
-1N  |
-2C  | 
-2D  | 
-2H  |
-2S  |
-2N  |
-3C  |
-3D  |
-3H  |
-3S  |
-3N  |
-
-### Description
-bla bla bla
-
+    ### Design
+        | sequence
+    --- | ---
+    1D  |
+    1H  |
+    1S  |
+    1N  |
+    2C  | 
+    2D  | 
+    2H  |
+    2S  |
+    2N  |
+    3C  |
+    3D  |
+    3H  |
+    3S  |
+    3N  |
+    
+    ### Description
+    bla bla bla
 ```
 
 
 
 ### Syntax
-[cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 sybmol | description
 ------ | ---
