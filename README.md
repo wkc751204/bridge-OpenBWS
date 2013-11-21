@@ -3,6 +3,8 @@ bridge-OpenBWS
 
 Open BWS is the bridge system for BTU club from NTU Taiwan
 
+
+
 Table of Contents
 -----------------
 ### Constructive Bidding System
@@ -35,41 +37,50 @@ Table of Contents
 
 
 
-
-
 How to use join us ?
 --------------------
 
 You can use GitHub GUI to maintain or use git command line.
 
-### Rules
+### Edit Rules
 
 - All commit MUST have commit message
+- follow template format and syntax
 
+### Template
 
+    ```
+    1C and 1D (Section Title)
+    =========================
+
+    1C first response (Title)
+    -------------------------
+
+    ### Design
+        | sequence
+    --- | ---
+    1D  |
+    1H  |
+    1S  |
+    1N  |
+    2C  | 
+    2D  | 
+    2H  |
+    2S  |
+    2N  |
+    3C  |
+    3D  |
+    3H  |
+    3S  |
+    3N  |
+    
+    ### Description
+    bla bla bla
+    ```
 
 ### Syntax
 [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-#### System
-All system should be edit as table
-
-##### code
-```
-    | 1N - 2C; ?
---- | ---
-2D  | no 4cd major
-2H  | 4cd
-```
-##### demo
-    | 1N - 2C; ?
---- | ---
-2D  | no 4 
-
-
-
-
-### Symbol
 
 sybmol | description
 ------ | ---
@@ -81,36 +92,7 @@ cd| card count
 - | less than (include)
 
 
-### template
-```
-1C and 1D (Section Title)
-=========================
 
-1C first response (Title)
--------------------------
-
-### Design
-    | sequence
---- | ---
-1D  |
-1H  |
-1S  |
-1N  |
-2C  | 
-2D  | 
-2H  |
-2S  |
-2N  |
-3C  |
-3D  |
-3H  |
-3S  |
-3N  |
-
-### Description
-bla bla bla
-
-```
 
 
 
