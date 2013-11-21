@@ -2,7 +2,7 @@ Opening
 =======
 
 #### Design
-    | opening
+ -  | opening
 --- | ---
 1C  | 12~21 hcp, 3+cd C
 1D  | 12~21 hcp, 3+cd D

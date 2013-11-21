@@ -25,7 +25,8 @@ Table of Contents
 - Appendix and Plugin
 
 ### Defensive Bidding System
-- Signal
+- Opening lead
+- Defense signal
 - Rubens Adanced after partner overcall
 - Double
 - VS NT opening
@@ -69,7 +70,7 @@ You can use GitHub GUI to maintain or use git command line.
     -------------------------
 
     ### Design
-        | sequence
+     -  | sequence
     --- | ---
     1D  |
     1H  |
@@ -101,6 +102,37 @@ cd| card count
 + | more than (include)
 - | less than (include)
 
+
+
+How to build html or pdf
+------------------------
+
+There is many tools that can transform markup format to html/pdf
+Here I use python as middleware to implement the task.
+
+### Requirement
+- Python27
+- python-markdown
+- html to pdf tool
+
+### Setup environment
+
+#### Mac environment
+Install Python
+```
+brew install pythan
+```
+
+Install pip to get Python Package
+```
+brew install pyp
+pip install python-markdown
+```
+
+Generate html and pdf using build.py
+```
+python build.py
+```
 
 
 
