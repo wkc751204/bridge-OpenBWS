@@ -46,9 +46,10 @@ You can use GitHub GUI to maintain or use git command line.
 ### Edit Rules
 
 - All commit MUST have commit message
-    - Using symbol to tell the file you edit if not too many files. [+] for add, [M] for edit, [-] for delete.
     - Tell what you do in this commit in summary.
-    - EX: [M] 1C.md.  [Summary] 1C-2C seqence complete.
+    - Using symbol to tell the file you edit if not too many files. [+] for add, [M] for edit, [-] for delete.
+    - EX: 1C-2C seqence complete.
+    - EX: Extended Description (OPT): [M] 1C.md
 - Follow the template format.
     - Use H1 for Chapter
     - Use H2 for Section
@@ -58,9 +59,9 @@ You can use GitHub GUI to maintain or use git command line.
 - syntax [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - Check syntax using [gist](https://gist.github.com) before commit
 
+
 ### Template
 
-```
     1C and 1D (Section Title)
     =========================
 
@@ -87,8 +88,6 @@ You can use GitHub GUI to maintain or use git command line.
     
     ### Description
     bla bla bla
-```
-
 
 
 ### Syntax
