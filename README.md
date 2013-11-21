@@ -9,16 +9,27 @@ How to use join us ?
 
 You can use GitHub GUI to maintain or use git command line.
 
+### Rules
+
+- All commit MUST have commit message
+
+
 
 ### Syntax
 
-All system should be edit as table
+
+- [cheatsheet][https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#wiki-tables]
+- All system should be edit as table
 
 ```
     | 1N - 2C; ?
 --- | ---
 2D  | no 4 
 ```
+    | 1N - 2C; ?
+--- | ---
+2D  | no 4 
+
 
 
 
