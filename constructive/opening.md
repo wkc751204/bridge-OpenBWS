@@ -13,7 +13,7 @@ Opening
 2D  | 
 2H  |
 2S  |
-2N  |
+2N  | 22~23 hcp, semi-bal
 3C  |
 3D  |
 3H  |
